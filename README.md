@@ -18,8 +18,8 @@ find.py --file_path=filepath
 实例：
 
 ```
-find.exe --file_path=./Vout_P1_N1.csv
-find.exe --file_path=./Vout_P1_N1.csv --factor=50
+find.py --file_path=./Vout_P1_N1.csv
+find.py --file_path=./Vout_P1_N1.csv --factor=50
 ```
 
 
